@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "vscode-icons",
+    "gitlens.gitCommands.closeOnFocusOut": true,
+    "settingsSync.ignoredSettings": [],
+    "settingsSync.ignoredExtensions": []
+}
